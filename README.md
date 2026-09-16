@@ -1,3 +1,3 @@
 # My First Project
 Εδώ προσθέτω μια δεύτερη γραμμή κειμένου!
-Προσπαθω ωα μαθω Git
+Trying to learn GitHub!
